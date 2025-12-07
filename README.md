@@ -13,3 +13,5 @@
   <li><strong>Argentina</strong> y <strong>Colombia</strong> enfrentan desafíos estructurales que afectan su balanza comercial.</li>
   <li><strong>Chile</strong> parece sensible a shocks externos, pero su recuperación en 2023 es notable.</li>
 </ul>
+<img width="1266" height="450" alt="import" src="https://github.com/user-attachments/assets/f4574492-b1cc-426b-b75b-b34fe5b59434" />
+<img width="1266" height="450" alt="export" src="https://github.com/user-attachments/assets/e2433e8e-4454-4173-a96e-a436bc3e46a2" />
