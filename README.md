@@ -5,11 +5,8 @@
 • **México, Colombia y Chile** muestran déficits comerciales en al menos dos de los tres años analizados.
 **Argentina** muestra una **caída progresiva** que indica un deterioro comercial significativo.
 <h3>Implicaciones estratégicas</h3>
-**Brasil** se beneficia de exportaciones fuertes (commodities/manufactura) y políticas comerciales efectivas.
-**México** muestra señales de recuperación en 2023, lo que podría reflejar ajustes en importaciones, tratados comerciales o mejora en exportaciones.
-**Argentina y Colombia** enfrentan desafíos estructurales que afectan su balanza comercial.
-**Chile** es sensible a shcoks externos, pero su recuperación en 2023 es notable.
 <ul>
+  <li><strong>Brasil</strong> se beneficia de exportaciones fuertes, (commodities/manufactura) y políticas comerciales efectivas.</li>
   <li><strong>México</strong> muestra señales de recuperación en 2023, lo que podría reflejar ajustes en importaciones, tratados comerciales o mejora en exportaciones.</li>
   <li><strong>Argentina</strong> y <strong>Colombia</strong> enfrentan desafíos estructurales que afectan su balanza comercial.</li>
   <li><strong>Chile</strong> parece sensible a shocks externos, pero su recuperación en 2023 es notable.</li>
