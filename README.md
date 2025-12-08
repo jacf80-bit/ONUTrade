@@ -1,7 +1,7 @@
 # Análisis de importaciones/exportaciones y balance comercial de México vs Argentina/Brasil/Chile/Colombia
-Objetivo del estudio: Conocer el balance comercial de las economías más importantes de latino américa.
-Paquetería utilizada: Python pandas, plotly (gráficos dinámicos)
-Habilidades adquiridas: Análisis de datos, limpieza de datos, condicionales y filtros
+<p>Objetivo del estudio: Conocer el balance comercial de las economías más importantes de latino américa.</p>
+<p>Paquetería utilizada: Python pandas, plotly (gráficos dinámicos)</p>
+<p>Habilidades adquiridas: Análisis de datos, limpieza de datos, condicionales y filtros</p>
 
 <img width="1266" height="450" alt="balance" src="https://github.com/user-attachments/assets/907cb147-f6ed-4d45-bee7-118844fb6008" />
 <h3>Observaciones</h3>
